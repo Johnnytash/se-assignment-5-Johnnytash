@@ -105,16 +105,16 @@ Steps to Download and Install VS Code on Windows
      
    ![alt text](<main components.png>)
 
-       1. Activity Bar:
+   1. Activity Bar:
            - Located on the far left, it provides access to different views like Explorer, Search, Source Control, Run and Debug, and Extensions.
 
-       2. Side Bar:
+   2. Side Bar:
             - Displays different panels based on the selected activity (e.g., file explorer, search results, source control changes).
 
-       3. Editor Area:
+   3. Editor Area:
              - The main area where files are opened and edited. You can have multiple editor groups to view files side-by-side.
 
-       4. Status Bar:
+   4. Status Bar:
               - Located at the bottom, it shows information about the current file and project, such as line number, Git branch, errors and warnings, and programming language.
 
 
@@ -143,24 +143,24 @@ Steps to Download and Install VS Code on Windows
    Extensions enhance the functionality of VS Code by adding support for new languages, themes, debuggers, and tools.
 
    Finding, Installing, and Managing Extensions
-       1. Finding Extensions:
+    1. Finding Extensions:
           - Click on the Extensions icon in the Activity Bar.or Click the Extensions icon in the Activity Bar or press Ctrl + Shift + X.
           - Search for the desired extension and click "Install".
-       2. Installing Extensions:
+    2. Installing Extensions:
           - Search for the desired extension in the Extensions view.
           - Click the "Install" button next to the extension.
-       3. Managing Extensions:
+    3. Managing Extensions:
           - View installed extensions in the Extensions view.
           - Disable or uninstall extensions by clicking the gear icon next to each extension.
 
       ![alt text](<managing extensions.png>)
 
-         Essential Extensions for Web Development
-           - Prettier: Code formatter.
-           - ESLint: JavaScript and TypeScript linting.
-           - Live Server: Local server for HTML/JavaScript development.
-           - Debugger for Chrome: Debugging JavaScript code in Chrome.
-           - HTML Snippets: Code snippets for HTML.
+   Essential Extensions for Web Development
+      - Prettier: Code formatter.
+      - ESLint: JavaScript and TypeScript linting.
+      - Live Server: Local server for HTML/JavaScript development.
+      - Debugger for Chrome: Debugging JavaScript code in Chrome.
+      - HTML Snippets: Code snippets for HTML.
 
 
 
@@ -173,7 +173,7 @@ Steps to Download and Install VS Code on Windows
 
    ![alt text](terminal.png)
 
-        2. Using the Terminal:
+      2. Using the Terminal:
            - Execute commands as you would in any terminal.
            - Create multiple terminals and switch between them.
 
@@ -230,25 +230,25 @@ Navigating Between Files and Directories Efficiently
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
    Setting Up and Starting Debugging
-    1. Open the Debug View:
+   1. Open the Debug View:
       - Click on the Debug icon in the Activity Bar or press Ctrl+Shift+D.
 
    ![alt text](debug.png)
 
-    2. Configure Debugging:
+   2. Configure Debugging:
        - Click on the gear icon to create a launch.json file with debugging configurations.
 
-    3. set Breakpoints:
+   3. set Breakpoints:
        - Click in the gutter next to the line number where you want to add a breakpoint.
 
    ![alt text](breakpoints.png)
 
-    4. Start Debugging:
+   4. Start Debugging:
        - Click on the Start Debugging button to start debugging.0r press F5
 
    ![alt text](<start debugging.png>)
     
-    5. Key Debugging Features
+   5. Key Debugging Features
        - Breakpoints: Pause execution at specific lines.
        - Watch: Monitor variables and expressions.
        - Call Stack: View the call stack and navigate through function calls.
