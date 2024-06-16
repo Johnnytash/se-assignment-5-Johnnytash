@@ -16,6 +16,7 @@ Steps to Download and Install VS Code on Windows
       - Visit the official website of Visual Studio Code: [Visual Studio Code Download.](https://code.visualstudio.com/download)
       - Look for the “Download for Windows” button and click on it.
       - This will start the download of the VS Code installer (VSCodeUserSetup-x64-1.X64-1.XX.X.exe).
+
       ![alt text](<vscode landing page.png>)
 
    2. Run the Installer: 
@@ -25,13 +26,16 @@ Steps to Download and Install VS Code on Windows
 
    3. Installation Prompt:
       - Accept the license agreement and click next.
+
       ![alt text](<accept license agreement.png>)
 
 
       - Choose the location where you want the VS Code installation to be kept. Accept the default location and click next.
+
       ![alt text](<vscode location.png>)
 
       - Accept the default Start Menu Folder and click Next.
+
       ![alt text](<start menu.png>)
 
       - Select additional tasks (optional but recommended):
@@ -43,9 +47,12 @@ Steps to Download and Install VS Code on Windows
       - Click next.
       - The installation will begin. Click on the install button.
       - After clicking install, it should take about one minute to install VS Code on your device.
+
       ![alt text](install.png)
+
    4. Finish Installation:
        - After installation, a setup window will appear. Tick on Launch VS Code and click Finish.
+
        ![alt text](finish.png)
 
    prerequisites
@@ -62,6 +69,7 @@ Steps to Download and Install VS Code on Windows
    1. Theme Selection:
         - Go to File > Preferences > Color Theme and choose a theme that suits your preferences (e.g., Dark+, Light+).
         - Install an icon pack like "Material Icon Theme" for better file navigation.
+
        ![alt text](theme.png)
 
    2. Font Selection:
@@ -76,6 +84,7 @@ Steps to Download and Install VS Code on Windows
            - ESLint (JavaScript and TypeScript linting).
            - Live Server (Local server for HTML/JavaScript development).
            - Python (Python language support).
+
            ![alt text](extensions.png)
          
    4. Editor Configuration:
@@ -84,6 +93,7 @@ Steps to Download and Install VS Code on Windows
    5. Version Control Setup:
         - If using Git, ensure it is installed and configure VS Code to use Git:
            - File > Preferences > Settings, search for "Git Path" and set the path if needed.
+
         ![alt text](<version control.png>)
 
          
@@ -91,6 +101,7 @@ Steps to Download and Install VS Code on Windows
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
    Main Components of the VS Code User Interface
+
      ![alt text](<main components.png>)
 
        1. Activity Bar:
@@ -114,7 +125,9 @@ Steps to Download and Install VS Code on Windows
 
    Accessing the Command Palette
       - Press Ctrl + Shift + P (or F1).
+
       ![alt text](<command palette.png>)
+
    Common Tasks Using the Command Palette
       - Opening files: File: Open File....
       - Installing extensions: Extensions: Install Extensions.
@@ -138,6 +151,7 @@ Steps to Download and Install VS Code on Windows
        3. Managing Extensions:
           - View installed extensions in the Extensions view.
           - Disable or uninstall extensions by clicking the gear icon next to each extension.
+
           ![alt text](<managing extensions.png>)
 
          Essential Extensions for Web Development
@@ -155,6 +169,7 @@ Steps to Download and Install VS Code on Windows
    Opening and Using the Integrated Terminal
        1. Opening the Terminal:
            - To open the integrated terminal, go to View > Terminal or press Ctrl+ (backtick).
+
            ![alt text](terminal.png)
 
         2. Using the Terminal:
@@ -172,7 +187,8 @@ Steps to Download and Install VS Code on Windows
 ### File and Folder Management: ###
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
-   Creating, Opening, and Managing Files and Folders
+Creating, Opening, and Managing Files and Folders
+
    ![alt text](<folder management.png>)
 
    1. Creating Files/Folders:
@@ -196,6 +212,7 @@ Navigating Between Files and Directories Efficiently
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
    Finding and Customizing Settings
+
    ![alt text](settings.png)
 
    1. Accessing Settings:
@@ -214,6 +231,7 @@ Navigating Between Files and Directories Efficiently
    Setting Up and Starting Debugging
     1. Open the Debug View:
       - Click on the Debug icon in the Activity Bar or press Ctrl+Shift+D.
+
       ![alt text](debug.png)
 
     2. Configure Debugging:
@@ -221,10 +239,12 @@ Navigating Between Files and Directories Efficiently
 
     3. set Breakpoints:
        - Click in the gutter next to the line number where you want to add a breakpoint.
+
       ![alt text](breakpoints.png)
 
     4. Start Debugging:
        - Click on the Start Debugging button to start debugging.0r press F5
+
        ![alt text](<start debugging.png>)
     
     5. Key Debugging Features
@@ -238,6 +258,7 @@ Navigating Between Files and Directories Efficiently
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
    - Integrating Git with VS Code
+
      ![alt text](<version control repo.png>)
 
    1. Initializing a Repository:
@@ -254,6 +275,7 @@ Navigating Between Files and Directories Efficiently
        - Click on the Source Control icon in the Activity Bar or press Ctrl + Shift + X.
        - Click "Push Changes".
        - Alternatively, open the terminal and run git push in your project directory.
+
          ![alt text](project.png)
 
 
