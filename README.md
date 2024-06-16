@@ -102,18 +102,19 @@ Steps to Download and Install VS Code on Windows
 
    Main Components of the VS Code User Interface
 
-     ![alt text](<main components.png>)
+     
+   ![alt text](<main components.png>)
 
        1. Activity Bar:
            - Located on the far left, it provides access to different views like Explorer, Search, Source Control, Run and Debug, and Extensions.
 
-        2. Side Bar:
+       2. Side Bar:
             - Displays different panels based on the selected activity (e.g., file explorer, search results, source control changes).
 
-        3. Editor Area:
+       3. Editor Area:
              - The main area where files are opened and edited. You can have multiple editor groups to view files side-by-side.
 
-        4. Status Bar:
+       4. Status Bar:
               - Located at the bottom, it shows information about the current file and project, such as line number, Git branch, errors and warnings, and programming language.
 
 
@@ -125,8 +126,8 @@ Steps to Download and Install VS Code on Windows
 
    Accessing the Command Palette
       - Press Ctrl + Shift + P (or F1).
-
-      ![alt text](<command palette.png>)
+   
+![alt text](<command palette.png>)
 
    Common Tasks Using the Command Palette
       - Opening files: File: Open File....
@@ -152,7 +153,7 @@ Steps to Download and Install VS Code on Windows
           - View installed extensions in the Extensions view.
           - Disable or uninstall extensions by clicking the gear icon next to each extension.
 
-          ![alt text](<managing extensions.png>)
+      ![alt text](<managing extensions.png>)
 
          Essential Extensions for Web Development
            - Prettier: Code formatter.
@@ -170,7 +171,7 @@ Steps to Download and Install VS Code on Windows
        1. Opening the Terminal:
            - To open the integrated terminal, go to View > Terminal or press Ctrl+ (backtick).
 
-           ![alt text](terminal.png)
+   ![alt text](terminal.png)
 
         2. Using the Terminal:
            - Execute commands as you would in any terminal.
@@ -232,7 +233,7 @@ Navigating Between Files and Directories Efficiently
     1. Open the Debug View:
       - Click on the Debug icon in the Activity Bar or press Ctrl+Shift+D.
 
-      ![alt text](debug.png)
+   ![alt text](debug.png)
 
     2. Configure Debugging:
        - Click on the gear icon to create a launch.json file with debugging configurations.
@@ -240,12 +241,12 @@ Navigating Between Files and Directories Efficiently
     3. set Breakpoints:
        - Click in the gutter next to the line number where you want to add a breakpoint.
 
-      ![alt text](breakpoints.png)
+   ![alt text](breakpoints.png)
 
     4. Start Debugging:
        - Click on the Start Debugging button to start debugging.0r press F5
 
-       ![alt text](<start debugging.png>)
+   ![alt text](<start debugging.png>)
     
     5. Key Debugging Features
        - Breakpoints: Pause execution at specific lines.
@@ -255,11 +256,11 @@ Navigating Between Files and Directories Efficiently
        - Debug Console: Execute commands and evaluate expressions during debugging.
 
 ### Using Source Control: ###
-    - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+   - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
    - Integrating Git with VS Code
 
-     ![alt text](<version control repo.png>)
+   ![alt text](<version control repo.png>)
 
    1. Initializing a Repository:
      - Click on the Source Control icon in the Activity Bar or press Ctrl + Shift + X.
@@ -276,7 +277,7 @@ Navigating Between Files and Directories Efficiently
        - Click "Push Changes".
        - Alternatively, open the terminal and run git push in your project directory.
 
-         ![alt text](project.png)
+   ![alt text](project.png)
 
 
 
