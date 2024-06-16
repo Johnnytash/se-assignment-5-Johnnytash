@@ -143,17 +143,17 @@ Steps to Download and Install VS Code on Windows
    Extensions enhance the functionality of VS Code by adding support for new languages, themes, debuggers, and tools.
 
    Finding, Installing, and Managing Extensions
-    1. Finding Extensions:
+   1. Finding Extensions:
           - Click on the Extensions icon in the Activity Bar.or Click the Extensions icon in the Activity Bar or press Ctrl + Shift + X.
           - Search for the desired extension and click "Install".
-    2. Installing Extensions:
+   2. Installing Extensions:
           - Search for the desired extension in the Extensions view.
           - Click the "Install" button next to the extension.
-    3. Managing Extensions:
+   3. Managing Extensions:
           - View installed extensions in the Extensions view.
           - Disable or uninstall extensions by clicking the gear icon next to each extension.
 
-      ![alt text](<managing extensions.png>)
+![alt text](<managing extensions.png>)
 
    Essential Extensions for Web Development
       - Prettier: Code formatter.
@@ -168,12 +168,12 @@ Steps to Download and Install VS Code on Windows
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
    Opening and Using the Integrated Terminal
-       1. Opening the Terminal:
+   1. Opening the Terminal:
            - To open the integrated terminal, go to View > Terminal or press Ctrl+ (backtick).
 
    ![alt text](terminal.png)
 
-      2. Using the Terminal:
+   2. Using the Terminal:
            - Execute commands as you would in any terminal.
            - Create multiple terminals and switch between them.
 
